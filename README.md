@@ -21,22 +21,22 @@
 3.	Huggingface id with access token permissions "Fine grained & Write permission" <p align ="left">https://huggingface.co/</p>
 
 <p align="left"><h3>⭐️Step by step procedure to run the notebooks</h3></p>
-   Terminal :
-   1.	Create an anaconda environment 
-      $conda create -n itrex python=3.10 -y
-   2.	Activate the environment 
-      $conda active itrex
-   3.	Install the pip package of requirements 
-     intel-extension-for-transformers
-4.	Install the pip package of CPU requirements
-  pip install -r requirements_cpu.txt 
-5.	Clone the repository of intel-extension-for-transformers
-6.	Login with the huggingface id with a newly created access token 
-   huggingface-cli login
-7.	Install the kernel for the environment 
-   python3 -m pip install jupyter ipykernel 
-8.	Create the kernel with user permission 
-    python3 -m ipykernel install –name neural-chat --user 
+  <h3>Terminal</h3> :<br>
+        1.Create an anaconda environment <br>
+              <p align="center">$conda create -n itrex python=3.10 -y<br></p>
+        2.Activate the environment <br>
+              $conda active itrex<br>
+        3.Install the pip package of requirements <br>
+             intel-extension-for-transformers<br>
+        4.Install the pip package of CPU requirements<br>
+             pip install -r requirements_cpu.txt <br>
+        5.Clone the repository of intel-extension-for-transformers<br>
+        6.Login with the huggingface id with a newly created access token<br> 
+             huggingface-cli login<br>
+        7.Install the kernel for the environment<br> 
+             python3 -m pip install jupyter ipykernel<br> 
+        8.Create the kernel with user permission <br>
+             python3 -m ipykernel install –name neural-chat --user<br> 
  
 •	First Notebook :  build_chatbot_on_spr.ipynb
 1.	Select the kernel we created “neural_chat”
