@@ -1,28 +1,33 @@
-	Getting Started
-	Jupyter lab guide
+<p align="center"><h1>🤖 Getting Started</h2></p>
+<p align="left"><h3>⭐️Jupyter Lab Guide</h3></p>
+
 1.	Install Jupyter lab or Jupyter lab cloud  
-•	 https://jupyter-batch-us-region-1.cloud.intel.com/user/u37b6cfaa417403454509c45c11d2628/lab/tree/Training/AI/GenAI
-•	 https://jupyter.org/install 
+        •	 https://jupyter-batch-us-region-1.cloud.intel.com/user/u37b6cfaa417403454509c45c11d2628/lab/tree/Training/AI/GenAI<br>
+ 	     •	 https://jupyter.org/install
+       
 2.	Start the server
 
-	 Requirement 
-1.	Internet connection 
-2.	RAM
-3.	ROM
 
-	Required packages
-1.	intel-extension-for-transformers
-2.	llama-2-7-hf-b model
-3.	huggingface
+---
 
-	Step by step procedure to run the notebooks 
-•	Terminal :
-1.	Create an anaconda environment 
-   $conda create -n itrex python=3.10 -y
-2.	Activate the environment 
-   $conda active itrex
-3.	Install the pip package of requirements 
-  intel-extension-for-transformers
+<p align="left"><h3>⭐️Requirements</h3></p>
+1.	Stable Internet connection <br>
+2.	Memory and disk space required per user: 512MB RAM + 1GB of disk + .5 CPU core.<br>
+3.	Server overhead: 2-4GB or 10% system overhead (whatever is larger), .5 CPU cores, 10GB disk space.<br>
+
+<p align="left"><h3>⭐️Required Packages</h3></p>
+1.	intel-extension-for-transformers <br> <p align = "left">https://github.com/intel/intel-extension-for-transformers</p>
+2.	llama-2-7-hf-b model <br><p align ="left">https://huggingface.co/meta-llama/Llama-2-7b-chat-hf</p> 
+3.	Huggingface id with access token permissions "Fine grained & Write permission" <p align ="left">https://huggingface.co/</p>
+
+<p align="left"><h3>⭐️Step by step procedure to run the notebooks</h3></p>
+   Terminal :
+   1.	Create an anaconda environment 
+      $conda create -n itrex python=3.10 -y
+   2.	Activate the environment 
+      $conda active itrex
+   3.	Install the pip package of requirements 
+     intel-extension-for-transformers
 4.	Install the pip package of CPU requirements
   pip install -r requirements_cpu.txt 
 5.	Clone the repository of intel-extension-for-transformers
