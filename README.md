@@ -22,7 +22,7 @@
 
 <p align="left"><h3>⭐️Step by step procedure to run the notebooks</h3></p>
   <h3>Terminal :</h3> <br>
-   1.Create an anaconda environment:
+  1.Create an anaconda environment:
 
 ```
        $conda create -n itrex python=3.10 -y
@@ -55,29 +55,15 @@
 ```
        $python3 -m ipykernel install –name neural-chat --user
 ```
- 
-•	First Notebook :  build_chatbot_on_spr.ipynb
-1.	Select the kernel we created “neural_chat”
-2.	Run all the cells and you will get an output
- 
- 
- 
 
-•	Second Notebook : single_node_finetuning_on_spr.ipynb
-Terminal :
-1.	Import llama model
-2.	Create an access token with permission write
-3.	Login with huggingface with newly created token 
-4.	Import alpaca dataset
-5.	In notebook Run all the cells and record training time
-
+<p align="left"><H4>•First Notebook :  build_chatbot_on_spr.ipynb</H4></p>
+ 1.        Select the kernel we created “neural_chat”<br>
+ 2.        Run all the cells and you will get the desired output<br>
  
-
-
-•	Third Notebook :  single_node_finetuning_on_spr.ipynb  on google collab 
-1.	Import the notebook into google collab 
-2.	Run all the cells by selecting runtime type to CPU 
-3.	Record training time 
+**•Third Notebook : single_node_finetuning_on_spr.ipynb  on google collab**<br>
+1.Import the notebook into google collab <br>
+2.Run all the cells by selecting runtime type to CPU <br>
+3.Record training time <br>
 
  
 
