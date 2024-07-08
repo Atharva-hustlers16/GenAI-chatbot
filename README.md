@@ -62,10 +62,21 @@
  
  ![IMAGE](img/textchatbot.png)
  ![IMAGE](img/outputchatbot.png)
-<p align="left"><h4>•Second Notebook : single_node_finetuning_on_spr.ipynb  on google collab</h4>
-1.Import the notebook into google collab <br>
-2.Run all the cells by selecting runtime type to CPU <br>
-3.Record training time <br>
+<p align="left"><h4>•Second Notebook : finetuning  on google collab</h4>
+1.Import the notebook into google collab 
+ 
+![IMAGE](img/tuning.png)
+        <br>
+2.Run all the cells by selecting runtime type to CPU 
+
+ ![IMAGE](img/trainingtime.png)
+ <br>
+3.Record training time 
+
+ ![IMAGE](img/tuning3.png)
+ <br>
+
+
 
 ### ⭐️Contributors
 -[@Snehal-pawar1](https://github.com/Snehal-pawar1)<br>
