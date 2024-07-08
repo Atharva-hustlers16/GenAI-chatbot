@@ -65,6 +65,6 @@
 2.Run all the cells by selecting runtime type to CPU <br>
 3.Record training time <br>
 
- 
+
 
               
