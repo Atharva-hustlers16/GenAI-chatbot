@@ -29,7 +29,7 @@
 ```
   2.Activate the environment:
 ```
-       $conda active itrex
+       $conda activate itrex
 ```
   3.Install the pip package of requirements 
 ```
