@@ -60,8 +60,8 @@
  1.        Select the kernel we created “neural_chat”<br>
  2.        Run all the cells and you will get the desired output<br>
  
- ![IMAGE](img/d.jpeg)
- 
+ ![IMAGE](img/textchatbot.png)
+ ![IMAGE](img/outputchatbot.png)
 <p align="left"><h4>•Second Notebook : single_node_finetuning_on_spr.ipynb  on google collab</h4>
 1.Import the notebook into google collab <br>
 2.Run all the cells by selecting runtime type to CPU <br>
