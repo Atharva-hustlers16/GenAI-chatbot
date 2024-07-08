@@ -69,7 +69,7 @@
         <br>
 2.Run all the cells by selecting runtime type to CPU 
 
- ![IMAGE](img/trainingtime.png)
+ ![IMAGE](img/trainingtime.jpeg)
  <br>
 3.Record training time 
 
