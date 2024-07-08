@@ -65,9 +65,11 @@
 2.Run all the cells by selecting runtime type to CPU <br>
 3.Record training time <br>
 
-### Contributors
-- 
-
+### ⭐️Contributors
+-[@Snehal-pawar1](https://github.com/Snehal-pawar1)<br>
+-[@Vaishnavi-deshmukh-001](https://github.com/Vaishnavi-deshmukh-001)<br>
+-[@RohitGaikwad05](https://github.com/RohitGaikwad05)<br>
+-[@Atharva-hustlers16](https://github.com/Atharva-hustlers16)<br>
 
 
               
