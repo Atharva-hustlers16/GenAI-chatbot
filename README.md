@@ -1,26 +1,34 @@
-<p align="center"><h1>🤖 Getting Started</h2></p>
-<p align="left"><h3>⭐️Jupyter Lab Guide</h3></p>
+# 🤖 Getting Started with the Chatbot
+## ⭐️Jupyter Lab Guide
 
-1.	Install Jupyter lab or Jupyter lab cloud  
+1.	Install Jupyter lab or you can use Intel Developer Cloud Console 
         •	 https://jupyter-batch-us-region-1.cloud.intel.com/user/u37b6cfaa417403454509c45c11d2628/lab/tree/Training/AI/GenAI<br>
+        [Image](img/idc.png)
  	     •	 https://jupyter.org/install
        
-2.	Start the server
+1.	Start the server
 
 
 ---
 
-<p align="left"><h3>⭐️Requirements</h3></p>
+## ⭐️Requirements
 1.	Stable Internet connection <br>
 2.	Memory and disk space required per user: 512MB RAM + 1GB of disk + .5 CPU core.<br>
 3.	Server overhead: 2-4GB or 10% system overhead (whatever is larger), .5 CPU cores, 10GB disk space.<br>
 
-<p align="left"><h3>⭐️Required Packages</h3></p>
+
+---
+
+## ⭐️Required Packages
 1.	intel-extension-for-transformers <br> <p align = "left">https://github.com/intel/intel-extension-for-transformers</p>
 2.	llama-2-7-hf-b model <br><p align ="left">https://huggingface.co/meta-llama/Llama-2-7b-chat-hf</p> 
 3.	Huggingface id with access token permissions "Fine grained & Write permission" <p align ="left">https://huggingface.co/</p>
 
-<p align="left"><h3>⭐️Step by step procedure to run the notebooks</h3></p>
+
+
+---
+
+## ⭐️Step by step procedure to run the notebooks
   <h3>Terminal :</h3> <br>
   1.Create an anaconda environment:
 
@@ -56,14 +64,14 @@
        $python3 -m ipykernel install –name neural-chat --user
 ```
 
-<p align="left"><H4>•First Notebook :  build_chatbot_on_spr.ipynb</H4></p>
+### •First Notebook :  build_chatbot_on_spr.ipynb
  1.        Select the kernel we created “neural_chat”<br>
  2.        Run all the cells and you will get the desired output<br>
  
  ![IMAGE](img/textchatbot.png)
  ![IMAGE](img/outputchatbot.png)
-<p align="left"><h4>•Second Notebook : finetuning  on google collab</h4>
-1.Import the notebook into google collab 
+### •Second Notebook : finetuning  on google colab
+1.Import the notebook into google colab 
  
 ![IMAGE](img/tuning.png)
         <br>
@@ -73,13 +81,17 @@
  <br>
 
 
+ ---
+
+
 
 
 ### ⭐️Contributors
+-[@Atharva-hustlers16](https://github.com/Atharva-hustlers16)<br>
 -[@Snehal-pawar1](https://github.com/Snehal-pawar1)<br>
 -[@Vaishnavi-deshmukh-001](https://github.com/Vaishnavi-deshmukh-001)<br>
 -[@RohitGaikwad05](https://github.com/RohitGaikwad05)<br>
--[@Atharva-hustlers16](https://github.com/Atharva-hustlers16)<br>
+-[@vrushabh-09](https://github.com/vrushabh-09)<br>
 
 
               
