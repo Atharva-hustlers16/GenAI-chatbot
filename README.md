@@ -3,7 +3,7 @@
 
 1.	Install Jupyter lab or you can use Intel Developer Cloud Console<br>
         •	 https://jupyter-batch-us-region-1.cloud.intel.com/user/u37b6cfaa417403454509c45c11d2628/lab/tree/Training/AI/GenAI<br>
-        [Image](img/idc.png)<br>
+        [Image](img/idc.jpg)<br>
  	     •	 https://jupyter.org/install
        
 1.	Start the server
