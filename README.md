@@ -28,7 +28,7 @@
 
 ---
 
-## ⭐️Step by step procedure to run the notebooks
+## ⭐️Step By Step Procedure To Run The Notebooks
   <h3>Terminal :</h3> <br>
   1.Create an anaconda environment:
 
