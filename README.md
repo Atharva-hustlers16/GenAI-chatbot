@@ -22,7 +22,7 @@
 ## ⭐️Required Packages
 1.	intel-extension-for-transformers <br> <p align = "left">https://github.com/intel/intel-extension-for-transformers</p>
 2.	llama-2-7-hf-b model <br><p align ="left">https://huggingface.co/meta-llama/Llama-2-7b-chat-hf</p> 
-3.	Huggingface id with access token permissions "Fine grained & Write permission" <p align ="left">https://huggingface.co/</p>
+3.	Huggingface Id with access token permissions "Fine grained & Write permission" <p align ="left">https://huggingface.co/</p>
 
 
 
