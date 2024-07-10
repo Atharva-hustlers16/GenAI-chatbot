@@ -12,9 +12,9 @@
 ---
 
 ## ⭐️Requirements
-1.	Stable Internet connection <br>
-2.	Memory and disk space required per user: 512MB RAM + 1GB of disk + .5 CPU core.<br>
-3.	Server overhead: 2-4GB or 10% system overhead (whatever is larger), .5 CPU cores, 10GB disk space.<br>
+1.	Stable Internet Connection <br>
+2.	Memory and Disk Space required per user: 512MB RAM + 1GB of disk + .5 CPU core.<br>
+3.	Server Overhead: 2-4GB or 10% System Overhead (whatever is larger), .5 CPU cores, 10GB disk space.<br>
 
 
 ---
