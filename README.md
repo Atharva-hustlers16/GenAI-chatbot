@@ -1,7 +1,7 @@
 # 🤖 Getting Started with the Chatbot
 ## ⭐️Jupyter Lab Guide
 
-1.	Install Jupyter lab or you can use Intel Developer Cloud Console 
+1.	Install Jupyter lab or you can use Intel Developer Cloud Console<br>
         •	 https://jupyter-batch-us-region-1.cloud.intel.com/user/u37b6cfaa417403454509c45c11d2628/lab/tree/Training/AI/GenAI<br>
         [Image](img/idc.png)
  	     •	 https://jupyter.org/install
