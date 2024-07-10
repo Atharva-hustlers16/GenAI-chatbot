@@ -65,8 +65,8 @@
 ```
 
 ### •First Notebook :  build_chatbot_on_spr.ipynb
- 1.        Select the kernel we created “neural_chat”<br>
- 2.        Run all the cells and you will get the desired output<br>
+ 1. Select the kernel we created “neural_chat”<br>
+ 2.  Run all the cells and you will get the desired output<br>
  
  ![IMAGE](img/textchatbot.png)
  ![IMAGE](img/outputchatbot.png)
